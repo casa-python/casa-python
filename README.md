@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 #### 🛠️ Github Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=casa-python&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casa-python&layout=compact&theme=radical&hide_border=true">
-</p>
+<a href="https://github.com/casa-python"><img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=casa-python&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="casa-python's github stats" /></a>
+
+<a href="https://github.com/casa-python"><img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casa-python&layout=compact&theme=radical&hide_border=true" /></a> 
+
 <!-- [![casa-python's GitHub stats](https://github-readme-stats.vercel.app/api?username=casa-python&show_icons=true&theme=radical)](https://github.com/casa-python/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casa-python&layout=compact&theme=radical&hide_border=true)](https://github.com/casa-python/github-readme-stats)   -->
