@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&desc=There%20is%20no%20place%20like%20home🏡&descAlign=50&descAlignY=80)
 
-![casa-python's GitHub stats](https://github-readme-stats.vercel.app/api?username=casa-python&show_icons=true&theme=radical)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=long)](https://solved.ac/long)
+#### 🎖️ Ranking
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=long)](https://www.acmicpc.net/user/long)
+
+
+#### 🛠️ Github Stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=casa-python&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casa-python&layout=compact&theme=radical&hide_border=true">
+</p>
+<!-- [![casa-python's GitHub stats](https://github-readme-stats.vercel.app/api?username=casa-python&show_icons=true&theme=radical)](https://github.com/casa-python/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casa-python&layout=compact&theme=radical&hide_border=true)](https://github.com/casa-python/github-readme-stats)   -->
