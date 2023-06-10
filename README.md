@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 #### 🛠️ Github Stats
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=casa-python&theme=tokyonight&show_icons=true" width="40%" style="height:180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=casa-python&theme=tokyonight&show_icons=true" width="42%" style="height:180px"/>
 </a>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casa-python&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="43%" style="height:180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casa-python&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="47%" style="height:180px"/>
 </a>
 
 
