@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 #### 🎖️ Ranking
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=long)](https://www.acmicpc.net/user/long/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=long)](https://solved.ac/long/)
 
 #### 🛠️ Github Stats
 
